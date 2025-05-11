@@ -1,23 +1,55 @@
-<h1 align="center">🚀 مرحباً، أنا جمال سريع | مطور Laravel & Flutter</h1>
-<h3 align="center">مطور شغوف ببناء حلول رقمية متكاملة</h3>
+<h1 align="center">✨ مرحبًا، أنا <span style="color:#38B2AC">جمال سريع</span></h1>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> مطور Laravel & Flutter متخصص في حلول الويب والجوال</h3>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamal-saree)](https://www.linkedin.com/in/jamal-saree)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white&link=https://solo.to/jamalsareea)](https://solo.to/jamalsareea)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jamal-sareea25)](https://github.com/jamal-sareea25)
+
+</div>
+
+---
+
+### 🎯 المهارات الرئيسية
+<div align="center">
+  
+| Backend | Frontend | Mobile | DevOps |
+|---------|----------|--------|--------|
+| <img src="https://skillicons.dev/icons?i=laravel,php,mysql" width="130"> | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" width="130"> | <img src="https://skillicons.dev/icons?i=flutter,dart" width="90"> | <img src="https://skillicons.dev/icons?i=git,docker,aws" width="130"> |
+
+</div>
+
+---
+
+### 📊 إحصائيات GitHub
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamal-sareea25&show_icons=true&count_private=true&theme=algolia&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal-sareea25&layout=compact&theme=algolia&hide_border=true)
+
+</div>
+
+---
+
+### 🔥 أحدث المشاريع
+<!-- استبدل هذه الروابط بمشاريعك الحقيقية -->
+• [مشروع Laravel متكامل](https://github.com/jamal-sareea25/project1)  
+• [تطبيق Flutter للخدمات](https://github.com/jamal-sareea25/project2)  
+• [نظام إدارة محتوى](https://github.com/jamal-sareea25/project3)
+
+---
+
+### 📬 تواصل معي
 <p align="center">
   <a href="https://www.linkedin.com/in/jamal-saree" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" style="margin:0 10px">
   </a>
   <a href="https://solo.to/jamalsareea" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" style="margin:0 10px">
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" style="margin:0 10px">
   </a>
 </p>
-
-
-
-### 📌 عني
-
-<div dir="rtl">
-أنا مطور واجهات وخلفيات متكاملة، متخصص في:
-• بناء تطبيقات الويب باستخدام Laravel
-• تطوير تطبيقات الجوال عبر Flutter
-• تصميم واجهات مستخدم تفاعلية
-• حلول API متقدمة
-</div>
