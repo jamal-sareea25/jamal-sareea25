@@ -3,14 +3,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamal-saree)](https://www.linkedin.com/in/jamal-saree)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamal-saree-0b3b62261)](https://www.linkedin.com/in/jamal-saree-0b3b62261)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=About.me&logoColor=white&link=https://solo.to/jamalsareea)](https://solo.to/jamalsareea)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamalsareea@gmail.com)](mailto:jamalsareea@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jamal-sareea25)](https://github.com/jamal-sareea25)
 
 </div>
 
----
+
 
 ### 🎯 المهارات الرئيسية
 <div align="center">
@@ -21,7 +21,7 @@
 
 </div>
 
----
+
 
 ### 📊 إحصائيات GitHub
 <div align="center">
@@ -31,7 +31,7 @@
 
 </div>
 
----
+
 
 ### 🔥 أحدث المشاريع
 <!-- استبدل هذه الروابط بمشاريعك الحقيقية -->
@@ -39,7 +39,7 @@
 • [تطبيق Flutter للخدمات](https://github.com/jamal-sareea25/project2)  
 • [نظام إدارة محتوى](https://github.com/jamal-sareea25/project3)
 
----
+
 
 ### 📬 تواصل معي
 <p align="center">
