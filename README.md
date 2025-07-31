@@ -34,10 +34,10 @@
 
 
 ### 🔥 أحدث المشاريع
-<!-- استبدل هذه الروابط بمشاريعك الحقيقية -->
-• [مشروع Laravel متكامل](https://github.com/jamal-sareea25/project1)  
-• [تطبيق Flutter للخدمات](https://github.com/jamal-sareea25/project2)  
-• [نظام إدارة محتوى](https://github.com/jamal-sareea25/project3)
+
+• [مشروع Laravel متكامل](https://github.com/jamal-sareea25/protfio)  
+• [تطبيق Flutter للخدمات](https://github.com/jamal-sareea25/)  
+• [نظام إدارة محتوى](https://github.com/jamal-sareea25/)
 
 
 
