@@ -1,4 +1,4 @@
-<h1 align="center">✨ مرحبًا، أنا <span style="color:#38B2AC"> محمد محمودالضباعية</span></h1>
+<h1 align="center">✨ مرحبًا، أنا <span style="color:#38B2AC">جمال سريع</span></h1>
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> مطور Laravel & Flutter متخصص في حلول الويب والجوال</h3>
 
 <div align="center">
